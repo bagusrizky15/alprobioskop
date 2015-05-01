@@ -8,6 +8,7 @@ compile and run F9 from dev c++ 4.9.9.2
 Please developed even better
 THANKS
 
+ @Nwdz
 ============================================
 	
 
