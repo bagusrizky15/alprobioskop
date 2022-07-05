@@ -1,5 +1,5 @@
 #include <cstdlib>
-#include <iostream.h>
+#include <iostream>
 #include <windows.h>
 #include <conio.h>
 #include <fstream.h>
